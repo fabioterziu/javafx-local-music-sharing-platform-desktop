@@ -4,8 +4,13 @@
 Elaborato sviluppato in coppia per l'esame di Ingegneria del Software [Anno 2025].  
 
 L'applicazione permette la gestione collaborativa di materiale musicale (testi/audio/video/youtube).  
-- Soltanto gli utenti autorizzati da un profilo admin potranno accedere.  
-- Gli utenti possono avere la possibilità di caricare/scaricare materiale musicale, commentare e annotare brani.
+
+Soltanto gli utenti autorizzati da un profilo admin potranno accedere ed avere la possibilità di:  
+- riprodurre, caricare, scaricare file mp3,mp4,pdf
+- riprodurre video youtube
+- creare, cercare, commentare, annotare brani e concerti  
+
+Gli admin hanno il pieno controllo sugli account utente e sulle loro attività.  
 
 (Le password vengono hashate con SHA-256 prima di essere memorizzate nel database)
 
