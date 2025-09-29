@@ -1,6 +1,6 @@
 # 🎵 PIATTAFORMA LOCALE DI CONDIVISIONE MUSICALE DESKTOP JAVAFX
 
-## DESCRIZIONE:
+## BREVE DESCRIZIONE:
 Elaborato sviluppato in coppia per l'esame di Ingegneria del Software [Anno 2025].  
 
 L'applicazione permette la gestione collaborativa di materiale musicale (testi/audio/video/youtube).  
