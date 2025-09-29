@@ -1,4 +1,4 @@
-# 🎵 PIATTAFORMA LOCALE DI CONDIVISIONE MUSICALE DESKTOP JAVAFX
+# 🎵 Piattaforma locale di condivisione musicale per desktop
 
 ## BREVE DESCRIZIONE:
 Elaborato sviluppato in coppia per l'esame di Ingegneria del Software [Anno 2025].  
