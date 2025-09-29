@@ -1,8 +1,6 @@
 # 🎵 Piattaforma locale di condivisione musicale per desktop in JavaFX
 
 ## BREVE DESCRIZIONE:
-Elaborato sviluppato in coppia per l'esame di Ingegneria del Software [Anno 2025].  
-
 L'applicazione permette la gestione collaborativa di materiale musicale (testi/audio/video/youtube).  
 
 Soltanto gli utenti autorizzati da un profilo admin potranno accedere ed avere la possibilità di:  
