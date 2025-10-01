@@ -1,6 +1,6 @@
 # 🎵 Piattaforma locale di condivisione musicale per desktop in JavaFX
 
-## BREVE DESCRIZIONE:
+## BREVE DESCRIZIONE
 L'applicazione permette la gestione collaborativa di materiale musicale (testi/audio/video/youtube).  
 
 Soltanto gli utenti autorizzati da un profilo admin potranno accedere ed avere la possibilità di:  
@@ -46,7 +46,7 @@ Gli admin hanno il pieno controllo sugli account utente e sulle loro attività.
 - **stato del progetto:**
   Il progetto è concluso e funzionante.  
   È prevista però una fase di refactoring volta a migliorare ulteriormente la separazione delle responsabilità.  
-  Nello specifico si procederà alla suddivisione della logica di business dai controller in apposite classi di servizio, come è stato già fatto per 'TrackController' e 'TrackService'
+  Nello specifico si procederà alla suddivisione della logica di business dai controller in apposite classi di servizio, come è stato già fatto per 'TrackController' / 'TrackService'
 
 - Credenziali admin:  
   username: admin  
